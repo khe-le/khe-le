@@ -25,4 +25,4 @@ Contact me:
 <!-- links to social media accounts  -->
 
 [1]: https://www.linkedin.com/in/khe-v-le
-[2]: http://www.github.com/khe-levy
+[2]: http://www.github.com/khe-le
