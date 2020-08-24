@@ -6,10 +6,10 @@ Contact me:
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
-- 🔭 I’m currently working on WebRTC and 🌱 learning Algorithms
+- 🔭 I’m currently working on WebRTC 
 - 👯 I’m looking to collaborate on Computer Vision projects
 - 💬 Ask me about anything !
-- 😄 Pronouns: as in 'kay'
+- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm running a small cookie business
 
 
