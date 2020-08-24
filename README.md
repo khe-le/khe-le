@@ -6,15 +6,15 @@ Contact me:
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
-### About me
+### About
 
-A computer science student at Connecticut College. Currently exploring opportunities to broaden my knowledge on software engineering and robotics. I have found that nothing satisfies me more than meeting new people, building relationships, solving problems, and contributing to the world through technology. 
+👩🏻‍💻 A computer science student at Connecticut College. Currently exploring opportunities to broaden my knowledge on software engineering and robotics. I have found that nothing satisfies me more than meeting new people, building relationships, solving problems, and contributing to the world through technology. 
 
 - 🔭 I’m currently working on WebRTC 
 - 👯 I’m looking to collaborate on Computer Vision projects
 - 💬 Ask me about anything !
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I'm running a small cookie business
+- ⚡ Fun fact: I'm running a small cookie business🍪!
 
 
 
