@@ -1,6 +1,6 @@
 ### Hello there 👋 
 
-## I'm Khe Le [keɪ:leɪ]
+## I'm Khe Le  ✨\keɪ:leɪ\
 Contact me:
 <!-- display the social media buttons in README -->
 [![alt text][1.1]][1]
