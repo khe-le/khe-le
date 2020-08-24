@@ -18,9 +18,9 @@ Contact me:
 
 <!-- icons with padding -->
 [1.1]: https://img.icons8.com/doodle/48/000000/linkedin--v2.png 
-[2.1]: https://img.icons8.com/doodle/48/000000/github.png
+[2.1]: https://img.icons8.com/dusk/64/000000/github.png
 
-<!-- links to your social media accounts -->
+<!-- links to your social media accounts https://img.icons8.com/doodle/48/000000/github.png -->
 <!-- update these accordingly -->
 
 [1]: https://www.linkedin.com/in/khe-v-le
