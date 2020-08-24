@@ -8,7 +8,7 @@ Contact me:
 
 ### About Khe ✍️
 
-👩🏻‍💻 A computer science student at Connecticut College. Currently exploring opportunities to broaden my knowledge on software engineering and robotics. I have found that nothing satisfies me more than meeting new people, building relationships, solving problems, and contributing to the world through technology. 
+👩🏻‍💻 A computer science major at Connecticut College. Currently exploring opportunities to broaden my knowledge on software engineering and robotics. I have found that nothing satisfies me more than meeting new people, building relationships, solving problems, and contributing to the world through technology. 
 
 - 🔭 I’m currently working on WebRTC 
 - 👯 I’m looking to collaborate on Computer Vision projects
