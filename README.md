@@ -17,8 +17,9 @@ Contact me:
 <!-- no need to change these -->
 
 <!-- icons with padding -->
-[1.1]: http://i.imgur.com/0o48UoR.png (linkedin icon with padding)
+[1.1]: https://www.flaticon.com/free-icon/linkedin_1383262?term=linkedin&page=1&position=41 (linkedin icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
