@@ -1,7 +1,7 @@
 ### Hello 👋
 
 ## I'm Khe Le
-@levanyenkhe@gmail.com
+<levanyenkhe@gmail.com>
 
 - 🔭 I’m currently working on WebRTC and 🌱 learning Algorithms
 - 👯 I’m looking to collaborate on Computer Vision projects
