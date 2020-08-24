@@ -1,7 +1,8 @@
 ### Hello 👋
 
 ## I'm Khe Le
-Contact me:<!-- display the social media buttons in README -->
+Contact me:
+<!-- display the social media buttons in README -->
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
