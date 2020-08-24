@@ -17,8 +17,8 @@ Contact me:
 <!-- no need to change these -->
 
 <!-- icons with padding -->
-[1.1]: https://img.icons8.com/doodle/48/000000/linkedin--v2.png (linkedin icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: https://img.icons8.com/doodle/48/000000/linkedin--v2.png 
+[2.1]: https://img.icons8.com/bubbles/50/000000/github.png
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
