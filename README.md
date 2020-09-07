@@ -8,13 +8,13 @@ Contact me:
 
 ### About Khe ✍️
 
-👩🏻‍💻 A computer science major at Connecticut College. Currently exploring opportunities to broaden my knowledge on software engineering and robotics. I have found that nothing satisfies me more than meeting new people, building relationships, solving problems, and contributing to the world through technology. 
+👩🏻‍💻 Khe is a computer science major at Connecticut College in New London, CT. She is currently seeking opportunities to broaden her knowledge on software engineering and robotics. She has found that nothing satisfies her more than solving problems, growing from her failures, and taking on unconventional challenges.
 
-- 🔭 I’m currently working on WebRTC 
-- 👯 I’m looking to collaborate on Computer Vision projects
-- 💬 Ask me about anything !
+- 🔭 She's currently working on WebRTC 
+- 👯 She's looking to collaborate on Computer Vision projects
+- 💬 Ask her about anything !
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I'm running a small cookie business🍪!
+- ⚡ Fun fact: She's running a small cookie business🍪!
 
 
 
